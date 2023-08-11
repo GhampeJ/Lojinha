@@ -1,0 +1,15 @@
+th{
+    background-color: black;
+    color: white;
+}
+td{
+    border: 2px solid black;
+    
+}
+body{
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+#titulo{
+    color: red;
+}

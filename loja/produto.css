@@ -1,0 +1,12 @@
+div{
+    display: inline-block;
+}
+#titulo{
+    display: block;
+    color: red;
+    border: 1px solid blueviolet;
+}
+body{
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
